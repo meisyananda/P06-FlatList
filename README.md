@@ -27,7 +27,7 @@
 [<img width="1080" height="2400" alt="shop3" src="https://github.com/user-attachments/assets/f9d45d2e-fdfd-41bd-808b-a570ef09e197" />]
 
 ## Cara Menjalankan
-1. Clone repo  : git clone (https://github.com/meisyananda/P06-FlatList)
+1. Clone repo  : git clone (https://snack.expo.dev/@meisyananda/meisyatugas)
 2. Install deps: npm install
 3. Jalankan    : npx expo start
 4. Scan QR Code dengan Expo Go di HP
