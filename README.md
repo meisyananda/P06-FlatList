@@ -1,8 +1,8 @@
 # ShopList App - Pemrograman Mobile Pertemuan 6
 
 ## Nama & NIM
-- Nama: [Nama Kamu]
-- NIM:  [NIM Kamu]
+- Nama: Meisya Cut Nanda
+- NIM:  243303621220
 
 ## Fitur yang Diimplementasikan
 - [x] FlatList dengan 12+ produk
